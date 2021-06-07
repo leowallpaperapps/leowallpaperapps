@@ -7,6 +7,9 @@
         "app_description" : "app_description",
 	"app_icon" : "icon_url",
 	"redirect_url": "",
+	  "iOSID":"",
+   "mailID":"leowallapps@gmail.com",
+   "mailSubject":"Black Wallpaper",
 	"facebook_keys": {
 		"android": {
 			"interstitial": "234959918415089_234960315081716",
