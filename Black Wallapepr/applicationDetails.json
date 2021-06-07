@@ -3,6 +3,9 @@
 	"app_name": "Black Wallpaper",
 	"app_package_name": "com.leowallpaperapps.blackwallpaper",
 	"current_advertise_type": 1,
+	"header_title" : "Black Wallpaper",
+        "app_description" : "app_description",
+	"app_icon" : "icon_url",
 	"redirect_url": "",
 	"facebook_keys": {
 		"android": {
