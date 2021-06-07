@@ -3,49 +3,49 @@
 		
 		"id" : 1,
 		"name" : "Black Wallpaper",
-		"icon_url" : "",
+		"icon_url" : "https://imgur.com/download/nPHHRif/black_icon",
 		"action" : "wallpaper_screen"
 	},
 	{
 		
 		"id" : 2,
 		"name" : "Rate US",
-		"icon_url" : "",
+		"icon_url" : "https://imgur.com/download/PMHbyZb/Rating",
 		"action" : "rateus_screen"
 	},
 	{
 		
 		"id" : 3,
 		"name" : "Share",
-		"icon_url" : "",
+		"icon_url" : "https://imgur.com/download/7oHYB0l/Share",
 		"action" : "share_screen"
 	},
 	{
 		
 		"id" : 4,
 		"name" : "Suggestion",
-		"icon_url" : "",
+		"icon_url" : "https://imgur.com/download/6XEgTkc/Suggestion",
 		"action" : "suggestion_screen"
 	},
 	{
 		
 		"id" : 5,
 		"name" : "About",
-		"icon_url" : "",
+		"icon_url" : "https://imgur.com/download/OagHyr8/Information+icon",
 		"action" : "about_screen"
 	},
 	{
 		
 		"id" : 6,
 		"name" : "Give Love",
-		"icon_url" : "",
+		"icon_url" : "https://imgur.com/download/LgZJMHr/Love+Icon",
 		"action" : "love_screen"
 	},
 	{
 		
 		"id" : 7,
 		"name" : "More",
-		"icon_url" : "",
+		"icon_url" : "https://imgur.com/download/bhjCuMr/New",
 		"action" : "more_screen"
 	}
 ]
