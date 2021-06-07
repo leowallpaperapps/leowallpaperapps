@@ -1,0 +1,31 @@
+{
+	"app_id": 1,
+	"app_name": "Black Wallpaper",
+	"app_package_name": "com.leowallpaperapps.blackwallpaper",
+	"current_advertise_type": 1,
+	"redirect_url": "",
+	"facebook_keys": {
+		"android": {
+			"interstitial": "234959918415089_234960315081716",
+			"banner": "234959918415089_234960098415071",
+			"native": "234959918415089_234960431748371"
+		},
+		"iOS": {
+			"interstitial": "",
+			"banner": "",
+			"native": ""
+		}
+	},
+	"google_keys":  {
+		"android": {
+			"interstitial": "ca-app-pub-3940256099942544/1033173712",
+			"banner": "ca-app-pub-3940256099942544/6300978111",
+			"native": "ca-app-pub-3940256099942544/2247696110"
+		},
+		"iOS": {
+			"interstitial": "ca-app-pub-3940256099942544/4411468910",
+			"banner": "ca-app-pub-3940256099942544/2934735716",
+			"native": "ca-app-pub-3940256099942544/3986624511"
+		}
+	}
+}
