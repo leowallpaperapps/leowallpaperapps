@@ -4,48 +4,48 @@
 		"id" : 1,
 		"name" : "Black Wallpaper",
 		"icon_url" : "",
-		"action" : "Wallpaper_Screen",
+		"action" : "wallpaper_screen"
 	},
 	{
 		
 		"id" : 2,
 		"name" : "Rate US",
 		"icon_url" : "",
-		"action" : "Wallpaper_Screen",
+		"action" : "rateus_screen"
 	},
 	{
 		
 		"id" : 3,
 		"name" : "Share",
 		"icon_url" : "",
-		"action" : "Wallpaper_Screen",
+		"action" : "Wallpaper_Screen"
 	},
 	{
 		
 		"id" : 4,
 		"name" : "Suggestion",
 		"icon_url" : "",
-		"action" : "Wallpaper_Screen",
+		"action" : "suggestion_screen"
 	},
 	{
 		
 		"id" : 5,
 		"name" : "About",
 		"icon_url" : "",
-		"action" : "Wallpaper_Screen",
+		"action" : "about_screen"
 	},
 	{
 		
 		"id" : 6,
 		"name" : "Give Love",
 		"icon_url" : "",
-		"action" : "Wallpaper_Screen",
+		"action" : "love_screen"
 	},
 	{
 		
 		"id" : 7,
 		"name" : "More",
 		"icon_url" : "",
-		"action" : "Wallpaper_Screen",
+		"action" : "more_screen"
 	}
 ]
