@@ -2,7 +2,7 @@
 	{
 		
 		"id" : 1,
-		"name" : "Wallpaper",
+		"name" : "Color Wallpaper",
 		"icon_url" : "https://i.imgur.com/2JLJHR3.png",
 		"action" : "wallpaper_screen"
 	},
