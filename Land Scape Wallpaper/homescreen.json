@@ -2,7 +2,7 @@
 	{
 		
 		"id" : 1,
-		"name" : "Wallpaper",
+		"name" : "Land Scape Wallpaper",
 		"icon_url" : "https://i.imgur.com/KKygHgA.png",
 		"action" : "wallpaper_screen"
 	},
