@@ -2,7 +2,7 @@
 	{
 		
 		"id" : 1,
-		"name" : "Wallpaper",
+		"name" : "Sea Wallpaper",
 		"icon_url" : "https://i.imgur.com/PDS5vuG.png",
 		"action" : "wallpaper_screen"
 	},
