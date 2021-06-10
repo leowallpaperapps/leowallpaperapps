@@ -2,7 +2,7 @@
 	{
 		
 		"id" : 1,
-		"name" : "Wallpaper",
+		"name" : "Garden Wallpaper",
 		"icon_url" : "https://i.imgur.com/BlzaW35.png",
 		"action" : "wallpaper_screen"
 	},
