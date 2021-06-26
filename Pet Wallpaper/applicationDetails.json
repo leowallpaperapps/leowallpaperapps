@@ -3,7 +3,7 @@
 	"app_name": "Pet Wallpaper",
 	"app_package_name": "com.leowallpaperapps.petwallpaper",
 	"header_title" : "Pet Wallpaper",
-	"app_icon" : "",
+	"app_icon" : "https://i.imgur.com/UUb7I7V.png",
 	"mailSubject":"Pet Wallpaper",
 	"redirect_url": "",
 	"iOSID":"",
