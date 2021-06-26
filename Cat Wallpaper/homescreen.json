@@ -3,7 +3,7 @@
 		
 		"id" : 1,
 		"name" : "Cat Wallpaper",
-		"icon_url" : "",
+		"icon_url" : "https://i.imgur.com/sowqj6d.png",
 		"action" : "wallpaper_screen"
 	},
 	{
