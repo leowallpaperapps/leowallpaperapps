@@ -1,0 +1,37 @@
+{
+	"app_id": 73,
+	"app_name": "Parrot Flying Wallpaper",
+	"app_package_name": "com.leowallpaperapps.parrotflyingwallpaper",
+	"header_title" : "Parrot Flying Wallpaper",
+	"app_icon" : "",
+	"mailSubject":"Parrot Flying Wallpaper",
+	"redirect_url": "",
+	"iOSID":"",
+	"current_advertise_type": 1,
+    "app_description" : "A wallpaper or background (also known as a desktop wallpaper, desktop background, desktop picture or desktop image on computers) is a digital image (photo, drawing etc.) used as a decorative background of a graphical user interface on the screen of a computer, smartphone or other electronic device. On a computer, wallpapers are generally used on the desktop, while on a mobile phone they serve as the background for the home screen. Though most devices come with a default background image, modern devices usually allow users to manually change the background image.",
+   "mailID":"leowallapps@gmail.com",
+   	"facebook_keys": {
+		"android": {
+			"interstitial": "234959918415089_234960315081716",
+			"banner": "234959918415089_234960098415071",
+			"native": "234959918415089_234960431748371"
+		},
+		"iOS": {
+			"interstitial": "",
+			"banner": "",
+			"native": ""
+		}
+	},
+	"google_keys":  {
+		"android": {
+			"interstitial": "ca-app-pub-3940256099942544/1033173712",
+			"banner": "ca-app-pub-3940256099942544/6300978111",
+			"native": "ca-app-pub-3940256099942544/2247696110"
+		},
+		"iOS": {
+			"interstitial": "ca-app-pub-3940256099942544/4411468910",
+			"banner": "ca-app-pub-3940256099942544/2934735716",
+			"native": "ca-app-pub-3940256099942544/3986624511"
+		}
+	}
+}
