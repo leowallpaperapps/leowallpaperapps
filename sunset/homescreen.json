@@ -10,13 +10,6 @@
 		
 		"id" : 2,
 		"name" : "Rate US",
-		"icon_url" : "https://imgur.com/download/PMHbyZb/Rating",
-		"action" : "rateus_screen"
-	},
-	{
-		
-		"id" : 2,
-		"name" : "Rate US",
 		"icon_url" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/PMHbyZb.png",
 		"action" : "rateus_screen"
 	},
