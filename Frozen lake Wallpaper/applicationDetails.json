@@ -3,7 +3,7 @@
 	"app_name": "Frozen Lake Wallpaper",
 	"app_package_name": "com.leowallpaperapps.frozenlakewallpaper",
 	"header_title" : "Frozen Lake Wallpaper",
-	"app_icon" : "",
+	"app_icon" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/Artboard%20%E2%80%93%2015.png",
 	"mailSubject":"Frozen Lake Wallpaper",
 	"redirect_url": "",
 	"iOSID":"",
