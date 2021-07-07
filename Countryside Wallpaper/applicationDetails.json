@@ -3,7 +3,7 @@
 	"app_name": "Countryside Wallpaper",
 	"app_package_name": "com.leowallpaperapps.countrysidewallpaper",
 	"header_title" : "Countryside Wallpaper",
-	"app_icon" : "",
+	"app_icon" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/Artboard%20%E2%80%93%2030.png",
 	"mailSubject":"Countryside Wallpaper",
 	"redirect_url": "",
 	"iOSID":"",
