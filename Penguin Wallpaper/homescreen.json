@@ -3,49 +3,49 @@
 		
 		"id" : 1,
 		"name" : "Penguin Wallpaper",
-		"icon_url" : "",
+		"icon_url" : "https://raw.githubusercontent.com/leowallpaperapps/leowallpaperapps/main/Penguin%20Wallpaper/penguin.png",
 		"action" : "wallpaper_screen"
 	},
 	{
 		
 		"id" : 2,
 		"name" : "Rate US",
-		"icon_url" : "https://imgur.com/download/PMHbyZb/Rating",
+		"icon_url" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/PMHbyZb.png",
 		"action" : "rateus_screen"
 	},
 	{
 		
 		"id" : 3,
 		"name" : "Share",
-		"icon_url" : "https://imgur.com/download/7oHYB0l/Share",
+		"icon_url" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/7oHYB0l.png",
 		"action" : "share_screen"
 	},
 	{
 		
 		"id" : 4,
 		"name" : "Suggestion",
-		"icon_url" : "https://imgur.com/download/6XEgTkc/Suggestion",
+		"icon_url" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/6XEgTkc.png",
 		"action" : "suggestion_screen"
 	},
 	{
 		
 		"id" : 5,
 		"name" : "About",
-		"icon_url" : "https://imgur.com/download/OagHyr8/Information+icon",
+		"icon_url" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/OagHyr8.png",
 		"action" : "about_screen"
 	},
 	{
 		
 		"id" : 6,
 		"name" : "Give Love",
-		"icon_url" : "https://imgur.com/download/LgZJMHr/Love+Icon",
+		"icon_url" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/LgZJMHr.png",
 		"action" : "love_screen"
 	},
 	{
 		
 		"id" : 7,
 		"name" : "More",
-		"icon_url" : "https://imgur.com/download/bhjCuMr/New",
+		"icon_url" : "https://raw.githubusercontent.com/leowallpaperapps/icons/main/bhjCuMr.jpeg",
 		"action" : "more_screen"
 	}
 ]
